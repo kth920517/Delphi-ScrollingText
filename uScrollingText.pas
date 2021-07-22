@@ -1,4 +1,15 @@
-﻿unit uScrollingText;
+{******************************************************************************}
+{                                                                              }
+{                       Delphi Scrolling Text Sample                           }
+{                                                                              }
+{                       Copyright (C) TeakHyun Kang                            }
+{                                                                              }
+{                       https://github.com/kth920517                           }
+{                       https://developist.tistory.com/                        }
+{                                                                              }
+{******************************************************************************}
+
+unit uScrollingText;
 
 interface
 
